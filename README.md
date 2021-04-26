@@ -1,5 +1,5 @@
 
-This repository holds two projects I have currently completed. They are sentiment analysis on Apple iTunes Podcasts and another one is about predicting listing price through utilizing machine learning model.
+This repository holds two projects I have currently completed. They are sentiment analysis on Apple iTunes Podcasts and another one is about predicting listing price on listings on Airbnb through utilizing machine learning model.
 
 
 # Sentiment Analysis Project
